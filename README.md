@@ -1,6 +1,6 @@
 # GitSignal
 
-[Live Demmo](https://git-signal-mu.vercel.app)
+[Live Demo](https://git-signal-mu.vercel.app)
 
 GitSignal is a full-stack GitHub activity analysis dashboard. It connects to a user's GitHub account, imports repository metadata, analyzes commit activity, computes developer behavior scores, and generates a developer profile report.
 
